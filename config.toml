@@ -1,0 +1,20 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Mike Minutillo"
+theme = "hyde-x"
+
+[author]
+    name = "Mike Minutillo"
+
+[params]
+    theme = "theme-base-09 layout-reverse"
+    rss = true
+    tagline = "technology, tabletop, thoughts"
+    highlight = "obsidian"
+
+    gravatarHash = "861f311cc4a077c439099d0e5d251e73"
+    twitter = "wolfbyte"
+    github = "mikeminutillo"
+    linkedin = "michaelminutillo"
+
+
