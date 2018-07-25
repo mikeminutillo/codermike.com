@@ -41,7 +41,21 @@ Github seems like the logical place to put it. I already have code on github and
 
 The easiest way to do this step is to create a new repo using the github web UI, and then clone it to my local machine and copy the contents of my hugo website into it.
 
-Git doesn't like tracking empty folders so I needed to drop some `gitkeep` files around the place to keep things in place. Check in changes to the local repo with Github Desktop and then push my changes up to github. Look, here it is!
+Git doesn't like tracking empty folders so I needed to drop some `gitkeep` files around the place to keep things in place. I'm lazy so I spent more time writing a LINQPad script to do this for me than it would have taken to just do it by hand. In case you're lazy, here is that script:
+
+```cs
+(from dir in Directory.EnumerateDirectories(@"C:\code\web\codermike.com", "*", SearchOption.AllDirectories)
+ where dir.Contains(".git") == false
+ where Directory.EnumerateFileSystemEntries(dir, "*.*", SearchOption.TopDirectoryOnly).Any() == false
+ select Path.Combine(dir, ".gitkeep")
+).ToList()
+ .ForEach(x =>
+{
+	using (var fs = File.Create(x)) {}
+});
+``
+
+Check in changes to the local repo with Github Desktop and then push my changes up to github. Look, here it is!
 
 ## Netlify
 
