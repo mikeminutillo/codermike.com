@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.codermike.com/"
 languageCode = "en-us"
 title = "Mike Minutillo"
 theme = "hyde-x"
@@ -16,5 +16,6 @@ theme = "hyde-x"
     twitter = "wolfbyte"
     github = "mikeminutillo"
     linkedin = "michaelminutillo"
+    googleAnalytics = "UA-4412269-5"
 
 
