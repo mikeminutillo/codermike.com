@@ -55,9 +55,26 @@ Git doesn't like tracking empty folders so I needed to drop some `gitkeep` files
 });
 ```
 
-Check in changes to the local repo with Github Desktop and then push my changes up to github. Look, here it is!
+Check in changes to the local repo with Github Desktop and then push my changes up to github. Look, [here it is](https://github.com/mikeminutillo/codermike.com/blob/eedd8322dffa52c3189165f4a81491729a3899ad/content/post/static.md#to-github)!
 
 ## Netlify
 
+Signing up for Netlify couldn't be easier. All I had to do was log in with my GitHub credentials. I authorized them to get my email address.
+
+Next up I have to pick a github repo. Because I signed up with GitHub credentials this is simple. I have to grant read access to my public repos (not a problem, everyone has that) and then I can pick from a list. I need to specify a branch and it even detects that I am using Hugo and adds the appropriate config!
+
+Now all I have to do is "Deploy Site". Hit the button and wait a few seconds.
+
+And it's done. Wait is that it? I click through and everything is working. Awesome!
+
+Next step is to define a custom domain name. I do happen to already own codermike.com so let's follow the instructions to set up my domain name registrar properly.
+
+OK. That was as easy as changing my A record in the DNS tables. And it's live. Unbelievable!
+
+## Secure
+
+One final thing that is awesome about Netlify. I can switch on https and enforce it for my whole site. I wasn't able to do that before because it was costly.
+
+Netlify basically did it for me. All I had to say "enforce it". And here we are in https land. 
 
 
