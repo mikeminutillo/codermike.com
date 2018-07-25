@@ -53,7 +53,7 @@ Git doesn't like tracking empty folders so I needed to drop some `gitkeep` files
 {
 	using (var fs = File.Create(x)) {}
 });
-``
+```
 
 Check in changes to the local repo with Github Desktop and then push my changes up to github. Look, here it is!
 
