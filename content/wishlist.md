@@ -1,6 +1,6 @@
 ---
 title: "Wishlist"
-date: 2018-07-25
+date: 2018-11-18
 ---
 
 This page is for the people who complain that I'm hard to buy for.
@@ -14,25 +14,53 @@ C. You REALLY don't need to buy me anything.
 ---
 
 
+
+### RPGs
+
+There's a few RPGs that I am interested in. Aside from ordering from Book Depository, you can pick up any of these from [Tactics](http://www.tactics.net.au/) in the city or [Quenda Games](http://www.quendagames.com.au/) in Midland. 
+
+I'd love to get a dice tray. Something with a felt bottom that I can roll dice into :)
+
+I am starting a D&D campaign. There's a few books that I want to get.
+
+- Princes of the Apocalypse 
+- Out of the Abyss 
+- Curse of Strahd 
+- Storm King's Thunder 
+- Tomb of Annihilation
+- Monster Cards (there are two sets, Level 1-5 and Level 6-16)
+- Magic Item Cards
+- Spellbook Cards (specifically the Arcane and Cleric decks)
+
+There's a couple of Pathfinder RPG books I'd love to get
+
+- Pathfinder Rise of the Runelords Hard Cover 
+- Pathfinder Curse of the Crimson Throne Hard Cover 
+
+There's even some FFG Star Wars RPG book I'd love to have
+
+- Star Wars: Edge of the Empire Core Rulebook 
+- Star Wars: Age of Rebellion Core Rulebook
+
+There's a couple of indie RPG titles that I'd love to get too:
+
+- Fiasco
+- Dread
+
+There's a hard-cover book called The Worlds of Android. Tactics is unable to get it. I don't know if there is a copy at Quenda.
+
+
 ### Board Game Stuff
 
 I love board games and I maintain an active wishlist [here](https://boardgamegeek.com/wishlist/codermike). There are some titles on this list that aren't available yet. Also at Christmas each year I participate in a global Secret Santa thing which uses this wishlist. 
 
 Here's some that I know you can pick up at Games World in Midland
 
-- [Splendor](https://www.gamesworld.com.au/product/splendor/)
+- Splendor
 - Clank! 
 - Century: Spice Road
-- Risk Star Wars (specifically [this 2015 edition](https://www.gamesworld.com.au/product/risk-star-wars-2015/))
-- [T.I.M.E. Stories](https://www.gamesworld.com.au/product/time-stories/)
-- [Eclipse: Ship Pack One](https://www.gamesworld.com.au/product/eclipse-ship-pack-one-expansion/)
-- [Battlestar Galactica: Exodus Expansion](https://www.gamesworld.com.au/product/battlestar-galactica-exodus-expansion/)
-- [Game of Thrones: The Iron Throne](https://www.gamesworld.com.au/product/game-of-thrones-the-iron-throne/)
-- [Pandemic: The Cure](https://www.gamesworld.com.au/product/pandemic-the-cure/)
-- [Spyfall](https://www.gamesworld.com.au/product/spyfall/)
-- [Risk Legacy](https://www.gamesworld.com.au/product/risk-legacy/)
-- [Betrayal at House on the Hill](https://www.gamesworld.com.au/product/betrayal-at-house-on-a-hill/) (but not Widow's Walk because it's an expansion and I'd need this first :p)
-- [Lift It!](https://www.gamesworld.com.au/product/lift-it/)
+- Pandemic: The Cure
+
 
 #### Lord of the Rings: The Card Game
 
@@ -48,58 +76,27 @@ These ones you'd need to check Quenda/Tactics for I think:
 - Return of the King: The Mountain of Fire
 
 
-### RPGs
-
-There's a few RPGs that I am interested in. Aside from ordering from Book Depository, you can pick up any of these from [Tactics](http://www.tactics.net.au/) in the city or [Quenda Games](http://www.quendagames.com.au/) in Midland. 
-
-I am starting a D&D campaign. There's a few books that I want to get.
-
-- Princes of the Apocalypse ([Book Depository](https://www.bookdepository.com/Princes-of-the-Apocalypse/9780786965786))
-- Out of the Abyss ([Book Depository](https://www.bookdepository.com/Out-of-the-Abyss-Wizards-RPG-Team-Christopher-Perkins/9780786965816))
-- Curse of Strahd ([Book Depository](https://www.bookdepository.com/Curse-of-Strahd-Wizards-RPG-Team/9780786965984))
-- Storm King's Thunder ([Book Depository](https://www.bookdepository.com/Storm-King-s-Thunder/9780786966004))
-
-There's a couple of Pathfinder RPG books I'd love to get
-
-- Pathfinder Rise of the Runelords ([Book Depository](https://www.bookdepository.com/Rise-of-the-Runelords-Rise-of-the-Runelords-James-Jacobs-Richard-Pett-Nicolas-Logue-Greg--Vaughan-Steve-Greer-Wolfgang-Baur/9781601254368))
-- Pathfinder Curse of the Crimson Throne ([Book Depository](https://www.bookdepository.com/Pathfinder-Adventure-Path-Curse-Crimson-Throne-Nicolas-Logue/9781601258908))
-
-There's even some FFG Star Wars RPG book I'd love to have
-
-- Star Wars: Edge of the Empire Core Rulebook ([Book Depository](https://www.bookdepository.com/Star-Wars-Edge-of-the-Empire-Core-Rulebook-Fantasy-Flight-Games/9781616616571))
-- Star Wars: Age of Rebellion Beginner Game ([Book Depository](https://www.bookdepository.com/Star-Wars-Fantasy-Flight-Games/9781616618780))
-
-
-
 ### Books
 
 #### Brandon Sanderson
 
 This guy finished the Wheel of Time series and has become one of my favorite authors.
 
-* Shadows of Self ([Book Depository](http://www.bookdepository.com/Shadows-of-Self-Brandon-Sanderson/9781473208223))
-
-#### James S.A. Corey
-
-Write a cool space opera series that I enjoy. I own the first 2 already
-
-* Book 3 - Abaddon's Gate ([Book Depository](https://www.bookdepository.com/Abaddon-s-Gate/9781841499932))
-* Book 4 - Cibola Burn ([Book Depository](https://www.bookdepository.com/Cibol-Burn-James-S-Corey/9780316334686))
-* Book 5 - Nemesis Games ([Book Depository](https://www.bookdepository.com/Nemesis-Games-James-S--Corey/9780356504254))
-* Book 6 - Babylon's Ashes ([Book Depository](https://www.bookdepository.com/Babylons-Ashes-James-S--Corey/9780356504292))
+* Shadows of Self
+* Legion: The Many Lives of Stephen Leeds
+* Skyward
 
 
 #### Others
 
-* Tigana by Guy Gavriel Kay
-* Ancilliary Justice by Ann Leckie - A warship trapped in a human body seeks revenge! [Book Depository](http://www.bookdepository.com/Ancillary-Justice-Ann-Leckie/9780356502403)
-* The World of Ice and Fire - because more info about Game of Thrones until the next book comes is welcome [Book Depository](http://www.bookdepository.com/The-World-of-Ice-and-Fire-Elio-M-Garci-George-R-R-Martin-Lind-Antonsson/9780007580910)
-* The Martian by Andy Weir - Engineers In Space! [Book Depository](http://www.bookdepository.com/The-Martian/9780091956141)
-* Shift by Hugh Howey - Sequel to Wool (which I thoroughly enjoyed). What if you lived in a silo underground your whole life and were told the outside was destroyed? [Book Depository](http://www.bookdepository.com/Shift/9780099580478)
+* Ancilliary Justice by Ann Leckie - A warship trapped in a human body seeks revenge!
+* The World of Ice and Fire - because more info about Game of Thrones until the next book comes is welcome 
+* Shift by Hugh Howey - Sequel to Wool (which I thoroughly enjoyed). What if you lived in a silo underground your whole life and were told the outside was destroyed? 
 
 
 ### Video
 
+- The Venture Bros Seasons 1-6 (there's a box set called the Box of Calamitous Intent)
 - Battlestar Galactica: The Complete Series Blu-Ray - I found [this great deal on FishPond](http://www.fishpond.com.au/Movies/Battlestar-Galactica-Complete-Series-Edward-James-Olmos/5050582708691).
 - Star Wars Complete Saga Blu-Ray
 - Any of the Marvel Cinematic Universe on Blu-Ray:
