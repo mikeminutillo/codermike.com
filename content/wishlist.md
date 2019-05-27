@@ -1,6 +1,6 @@
 ---
 title: "Wishlist"
-date: 2018-11-18
+date: 2019-05-27
 ---
 
 This page is for the people who complain that I'm hard to buy for.
@@ -14,7 +14,6 @@ C. You REALLY don't need to buy me anything.
 ---
 
 
-
 ### RPGs
 
 There's a few RPGs that I am interested in. Aside from ordering from Book Depository, you can pick up any of these from [Tactics](http://www.tactics.net.au/) in the city or [Quenda Games](http://www.quendagames.com.au/) in Midland. 
@@ -26,10 +25,8 @@ I am starting a D&D campaign. There's a few books that I want to get.
 - Princes of the Apocalypse 
 - Out of the Abyss 
 - Curse of Strahd 
-- Storm King's Thunder 
 - Tomb of Annihilation
 - Monster Cards (there are two sets, Level 1-5 and Level 6-16)
-- Magic Item Cards
 - Spellbook Cards (specifically the Arcane and Cleric decks)
 
 There's a couple of Pathfinder RPG books I'd love to get
@@ -47,7 +44,7 @@ There's a couple of indie RPG titles that I'd love to get too:
 - Fiasco
 - Dread
 
-There's a hard-cover book called The Worlds of Android. Tactics is unable to get it. I don't know if there is a copy at Quenda.
+
 
 
 ### Board Game Stuff
@@ -56,11 +53,14 @@ I love board games and I maintain an active wishlist [here](https://boardgamegee
 
 Here's some that I know you can pick up at Games World in Midland
 
-- Splendor
+- [Splendor](https://www.gamesworld.com.au/product/splendor/)
 - Clank! 
 - Century: Spice Road
-- Pandemic: The Cure
-
+- [Pandemic: The Cure](https://www.gamesworld.com.au/product/pandemic-the-cure/)
+- [Spyfall](https://www.gamesworld.com.au/product/spyfall/)
+- [Risk Legacy](https://www.gamesworld.com.au/product/risk-legacy/)
+- [Betrayal at House on the Hill](https://www.gamesworld.com.au/product/betrayal-at-house-on-a-hill/) (but not Widow's Walk because it's an expansion and I'd need this first :p)
+- [Lift It!](https://www.gamesworld.com.au/product/lift-it/)
 
 #### Lord of the Rings: The Card Game
 
@@ -78,20 +78,7 @@ These ones you'd need to check Quenda/Tactics for I think:
 
 ### Books
 
-#### Brandon Sanderson
-
-This guy finished the Wheel of Time series and has become one of my favorite authors.
-
-* Shadows of Self
-* Legion: The Many Lives of Stephen Leeds
-* Skyward
-
-
-#### Others
-
-* Ancilliary Justice by Ann Leckie - A warship trapped in a human body seeks revenge!
-* The World of Ice and Fire - because more info about Game of Thrones until the next book comes is welcome 
-* Shift by Hugh Howey - Sequel to Wool (which I thoroughly enjoyed). What if you lived in a silo underground your whole life and were told the outside was destroyed? 
+I recently purchased an Amazon Kindle and I'm trying to use it to get back into reading. An Amazon gift card would be very helpful in keeping me in books to read :)
 
 
 ### Video
