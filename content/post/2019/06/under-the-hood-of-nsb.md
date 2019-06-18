@@ -98,6 +98,7 @@ namespace NServiceBus
 ```
 
 The important bits are:
+
 - We put our extension method class in the `NServiceBus` namespace. This gives users access to it as soon as they reference our assembly.
 - We import the `NServiceBus.Configuration.AdvancedExtensibility` namespace with a using statement. This gives us access to the internal settings on the endpoint configuration.
 - We add an extension method to `EndpointConfiguration`. This is the starting point for most configuration extensions.
