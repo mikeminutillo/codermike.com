@@ -3,7 +3,7 @@ title: "Under the hood of NServiceBus: SettingsHolder"
 date: 2023-03-08
 ---
 
-In the [last post](/content/post/2019/06/under-the-hood-of-nsb.md) I explained that `EndpointConfiguration` is really just a wrapper around a `SettingsHolder` and how to use the `GetSettings()` extension method in the `AdvancedExtensibility` namespace to get access to it. 
+In the [last post](../../2019/06/under-the-hood-of-nsb.md) I explained that `EndpointConfiguration` is really just a wrapper around a `SettingsHolder` and how to use the `GetSettings()` extension method in the `AdvancedExtensibility` namespace to get access to it. 
 
 So once you have access to a `SettingsHolder`, what can you do with it?
 
